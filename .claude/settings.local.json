@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__playright__browser_type",
+      "mcp__playright__browser_wait_for",
+      "mcp__playright__browser_snapshot",
+      "mcp__playright__browser_take_screenshot",
+      "mcp__playright__browser_click"
+    ]
+  }
+}
